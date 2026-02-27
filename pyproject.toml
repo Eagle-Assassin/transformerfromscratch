@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "datasets>=4.6.0",
+    "matplotlib>=3.10.8",
     "tensorboard>=2.20.0",
     "tokenizers>=0.22.2",
     "torch>=2.10.0",
